@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+   
+}
+
+.card{
+   
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    background-color: rgb(209, 205, 200);
+    margin-bottom: 1rem;
+    margin-left: 1rem;
+}
+
+.poster{
+    width:150px
+}
+
+.overview{
+    width:150px;
+    height: 100px;
+    overflow: hidden;
+}
+
+.title{
+    width: 150px;
+   
+}
+
+.hero{
+    height: 380px;
+}
